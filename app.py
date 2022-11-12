@@ -56,11 +56,11 @@ app = Flask(__name__)
 
 # Channel Access Token
 
-line_bot_api = LineBotApi('ISI TOKEN OA KALIAN')
+line_bot_api = LineBotApi('oWzt4Vrz7MLaIffSljtSfvEAWfJweyrnMidxBB47N3mRNEKYrBaP7318axHzY8VtunCV3+Nw9ZAm3UygLD3UiwtMkDmjgUcfkawnh3fjrh4zgjmjGdJ01W1gKykK1+71JvaYQuRYtCnD7AlftpGCdgdB04t89/1O/w1cDnyilFU=')
 
 # Channel Secret
 
-handler = WebhookHandler('ISI CHHANEL SCREET')
+handler = WebhookHandler('9400a8586d32db08020c42c01468c69b')
 
 #===========[ NOTE SAVER ]=======================
 
@@ -146,7 +146,7 @@ MessageTemplateAction(
 
 label='Culum 1',
 
-text='/aditmadzs'
+text='/Metal_Creations_Bali'
 
 ),
 
@@ -154,7 +154,7 @@ MessageTemplateAction(
 
 label='CULUM 2',
 
-text='/aditmadzs'
+text='/Metal_Creations_Bali'
 
 ),
 
@@ -162,7 +162,7 @@ MessageTemplateAction(
 
 label='CULUM 3',
 
-text='/aditmadzs'
+text='/Metal_Creations_Bali'
 
 )
 
@@ -190,7 +190,7 @@ CarouselColumn(
 
 title='ADD ME',
 
-text='Contact Aditmadzs',
+text='Contact Metal_Creations_Bali',
 
 actions=[
 
@@ -218,7 +218,7 @@ URITemplateAction(
 
 label='>TAP HERE!<',
 
-uri='http://line.me/ti/p/~adit_cmct'
+uri='https://line.me/ti/p/ljOH-ul3sZ'
 
 )
 
@@ -252,7 +252,7 @@ aspect_ratio='20:13',
 
 aspect_mode='cover',
 
-action=URIAction(uri='http://line.me/ti/p/~adit_cmct', label='label')
+action=URIAction(uri='https://line.me/ti/p/ljOH-ul3sZ', label='label')
 
 ),
 
@@ -264,7 +264,7 @@ contents=[
 
 # title
 
-TextComponent(text='Aditmadzs', weight='bold', size='xl'),
+TextComponent(text='Metal_Creations_Bali', weight='bold', size='xl'),
 
 # review
 
@@ -328,7 +328,7 @@ flex=1
 
 TextComponent(
 
-text='Tangerang, Indonesia',
+text='Denpasar, Indonesia',
 
 wrap=True,
 
@@ -410,7 +410,7 @@ style='link',
 
 height='sm',
 
-action=URIAction(label='Aditmadzs', uri="https://line.me/ti/p/~adit_cmct")
+action=URIAction(label='Metal_Creations_Bali', uri="https://line.me/ti/p/ljOH-ul3sZ")
 
 )
 
