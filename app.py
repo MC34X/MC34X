@@ -198,7 +198,7 @@ URITemplateAction(
 
 label='>TAP HERE<',
 
-uri='https://line.me/ti/p/~adit_cmct'
+uri='https://line.me/ti/p/ljOH-ul3sZ'
 
 )
 
@@ -218,7 +218,7 @@ URITemplateAction(
 
 label='>TAP HERE!<',
 
-uri='https://line.me/ti/p/ljOH-ul3sZ'
+uri='https://instagram.com/p/CiX2GLnPzEx/?igshid=YmMyMTA2M2Y='
 
 )
 
